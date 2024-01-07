@@ -1,3 +1,4 @@
+// Q) Find the unique number in given Array where all the element are being repeted twice with one value being unique
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -38,11 +39,7 @@ public class UniqueValue {
          System.out.println("The given array = ");
          System.out.println(Arrays.toString(arr));
 
-       
-
-        
-         System.out.println("Unique number = " +uniqueValue(arr));
-         
+        System.out.println("Unique number = " +uniqueValue(arr));         
         
     }
 }
