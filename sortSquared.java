@@ -1,3 +1,5 @@
+/*Given  an integer Array "a" sorted in non-decreasing order return an Array of the Squre 
+of each number sorted in non-decreasing order */
 import java.util.*;
 public class sortSquared {
     static void printArray(int ans[]){
