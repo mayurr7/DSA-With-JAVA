@@ -1,3 +1,5 @@
+//Check the given number is present in array or not
+
 import java.util.Arrays;
 import java.util.Scanner;
 
