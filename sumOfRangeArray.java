@@ -1,3 +1,5 @@
+//The statrting range l and last range r find the sum between this range
+
 import java.util.Arrays;
 import java.util.Scanner;
 
